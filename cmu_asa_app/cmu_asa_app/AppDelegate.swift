@@ -1,9 +1,9 @@
 //
 //  AppDelegate.swift
-//  CMU ASA
+//  cmu_asa_app
 //
-//  Created by Eugene  Choi on 10/2/19.
-//  Copyright © 2019 cmu_asa. All rights reserved.
+//  Created by Eugene  Choi on 5/11/20.
+//  Copyright © 2020 CMU ASA. All rights reserved.
 //
 
 import UIKit
