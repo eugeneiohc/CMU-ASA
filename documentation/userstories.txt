@@ -1,3 +1,0 @@
-Essential:
-1. As a user I want to be able to create an account via Email/Facebook/LinkedIn
-
