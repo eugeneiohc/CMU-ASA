@@ -2,7 +2,9 @@
 (Update 5/11/20)
 
 ## Summary
-This App is a prototype of an iOS web app using CMU ASA as a use case for its premise. It is NOT the official app of CMU ASA.
+This App is a prototype of an iOS web app using CMU ASA as a use case for its premise.
+
+It is NOT the official app of CMU ASA.
 
 ## Purpose/Goals
 This App has 2 main goals for its use
