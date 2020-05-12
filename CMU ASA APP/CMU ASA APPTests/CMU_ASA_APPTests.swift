@@ -1,15 +1,15 @@
 //
-//  cmu_asa_appTests.swift
-//  cmu_asa_appTests
+//  CMU_ASA_APPTests.swift
+//  CMU ASA APPTests
 //
-//  Created by Eugene  Choi on 5/11/20.
+//  Created by Eugene  Choi on 5/12/20.
 //  Copyright © 2020 CMU ASA. All rights reserved.
 //
 
 import XCTest
-@testable import cmu_asa_app
+@testable import CMU_ASA_APP
 
-class cmu_asa_appTests: XCTestCase {
+class CMU_ASA_APPTests: XCTestCase {
 
     override func setUp() {
         // Put setup code here. This method is called before the invocation of each test method in the class.

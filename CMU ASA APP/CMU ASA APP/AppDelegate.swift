@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  cmu_asa_app
+//  CMU ASA APP
 //
-//  Created by Eugene  Choi on 5/11/20.
+//  Created by Eugene  Choi on 5/12/20.
 //  Copyright © 2020 CMU ASA. All rights reserved.
 //
 

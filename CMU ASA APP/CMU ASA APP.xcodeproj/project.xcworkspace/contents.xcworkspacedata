@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:cmu_asa_app.xcodeproj">
+      location = "self:CMU ASA APP.xcodeproj">
    </FileRef>
 </Workspace>
